@@ -41,7 +41,7 @@ body {
 }
 
 h1 {
-  font-size: 92px;
+  font-size: 80px;
   margin-top: 0;
   line-height: 1;
   margin-bottom: 10px;
@@ -158,5 +158,11 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+  }
+  h1 {
+    font-size: 45px;
+    margin-top: 0;
+    line-height: 1;
+    margin-bottom: 10px;
   }
 }
